@@ -5,5 +5,7 @@ A chat server and cleint using python and the google drive API.
 
 # Directions
 
-Download the 5 star chat .app under releases
-Open the app, create create a username and enjoy!
+Reqires Python modules:
+1.) pip install pygame
+2.) pip install gspread oauth2client
+
